@@ -4,7 +4,7 @@ telephone: +79811851296
 email: natashaperinova@gmail.com
 telegram: https://t.me/renarrrd
 ________________________________________
-About myself
+About myself:
 Being a professional teacher I have necessary skills to become a front-end developer in 2023. I'm a great team player, sociable and extremely responsible (which hurts from time to time). I'm eager to learn and acquire new skills and technologies.
 ________________________________________
 Skills:
