@@ -27,5 +27,5 @@ Education:
 ________________________________________
 Languages:
 •	English C1 (passed CAE in 2019)
-•	French B2
+•	French B1
 •	Russian native
