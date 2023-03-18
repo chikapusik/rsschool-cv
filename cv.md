@@ -1,8 +1,8 @@
 ### Natalia Perinova
 #### Junior Frontend developer
-#### telephone: +79811851296
-#### email: natashaperinova@gmail.com
-#### telegram: https://t.me/renarrrd
+#### Telephone: +79811851296
+#### Email: natashaperinova@gmail.com
+#### Telegram: https://t.me/renarrrd
 ---
 ### About myself:
 ##### Being a professional teacher I have necessary skills to become a front-end developer in 2023. I'm a great team player, sociable and extremely responsible (which hurts from time to time). I'm eager to learn and acquire new skills and technologies.
