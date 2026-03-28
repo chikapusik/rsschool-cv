@@ -23,3 +23,5 @@
    Let's talk - https://talks-flame.vercel.app/  some food for thought and something to talk about
 ## Languages:
 French
+## About me
+I'm reliable
