@@ -1,6 +1,8 @@
 # Natalia Perinova
 ## Location: 
   Batumi, Georgia
+## About me
+I'm reliable, I'm responsible and resilient. I'm a fast learner and a great team player. My biggest flaw is my responsibility.
 ## Contacts:
   Tel: 12222222289  
   Email: natashaperinova@gmail.com  
@@ -23,5 +25,3 @@ English - C1
   French - B2  
   Spanish - A2  
   Russian - native 
-## About me
-I'm reliable, I'm responsible and resilient. I'm a fast learner and a great team player
