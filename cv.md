@@ -4,7 +4,7 @@
 ## About me
 I'm reliable, I'm responsible and resilient. I'm a fast learner and a great team player. My biggest flaw is my responsibility.
 ## Contacts:
-  Tel: +955 574174576
+  Tel: +955 574174576  
   Email: natashaperinova@gmail.com  
   GitHub: chikapusik  
 ## Skills:
