@@ -21,3 +21,5 @@
 ## Pet Projects:
    Make a wish - https://shooting-star-eight.vercel.app/  a solution for someone desperately in need of hope  
    Let's talk - https://talks-flame.vercel.app/  some food for thought and something to talk about
+## Languages:
+French
